@@ -24,8 +24,12 @@
     "com.unity.recorder": "2.1.0-preview.1",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.render-pipelines.universal": "8.0.1",
     "com.unity.rendering.hybrid": "file:../../../dots/Samples/Packages/com.unity.rendering.hybrid",
+=======
+    "com.unity.render-pipelines.universal": "7.2.1",
+>>>>>>> parent of cc003ba... Merge remote-tracking branch 'upstream/incrementalpipeline2'
 =======
     "com.unity.render-pipelines.universal": "7.2.1",
 >>>>>>> parent of cc003ba... Merge remote-tracking branch 'upstream/incrementalpipeline2'
