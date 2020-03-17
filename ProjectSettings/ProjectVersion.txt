@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 m_EditorVersion: 2019.3.5f1
 m_EditorVersionWithRevision: 2019.3.5f1 (d691e07d38ef)
+=======
+m_EditorVersion: 2019.3.0f6
+m_EditorVersionWithRevision: 2019.3.0f6 (27ab2135bccf)
+>>>>>>> parent of cc003ba... Merge remote-tracking branch 'upstream/incrementalpipeline2'
 =======
 m_EditorVersion: 2019.3.0f6
 m_EditorVersionWithRevision: 2019.3.0f6 (27ab2135bccf)
